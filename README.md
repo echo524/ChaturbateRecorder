@@ -31,3 +31,10 @@ If you have contributions or errors, please provide as much info as possible for
 ### FORK
 This is a fork of  Damianonymous' original script which can be found here: 
 https://github.com/Damianonymous/ChaturbateRecorder
+
+## Disclaimer
+This tool is not to be used to record, trasmit, distribute, or make available in any way, copyrighted content claimed by the creators of such material.
+
+If a model or Chaturbate claims copyright ownership over their stream, it is legally theirs and their copyright rights over their material shall not be infringed by the use of this script. 
+
+By using this script, you affirm that you are not infringing the copyright of any parties involved.
